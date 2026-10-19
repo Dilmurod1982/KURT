@@ -1,0 +1,48 @@
+{
+    "common": {
+      "loading": "लोड हो रहा है…",
+      "cancel": "रद्द करें",
+      "close": "बंद करें"
+    },
+    "landing": {
+      "title": "कार्ड गेम «कर्ट»",
+      "subtitle": "4 खिलाड़ी · 2 टीमें · तुरुप और ट्रिक्स",
+      "welcome": "स्वागत है, {{name}}",
+      "login": "लॉग इन",
+      "play": "खेलें"
+    },
+    "login": {
+      "title": "साइन इन",
+      "google": "Google के साथ जारी रखें",
+      "microsoft": "Microsoft के साथ जारी रखें",
+      "apple": "Apple के साथ जारी रखें",
+      "facebook": "Facebook के साथ जारी रखें",
+      "twitter": "Twitter के साथ जारी रखें"
+    },
+    "createPlayer": {
+      "title": "अपना खिलाड़ी बनाएं",
+      "username": "खिलाड़ी नाम (केवल लैटिन)",
+      "birthDate": "जन्म तिथि",
+      "country": "देश",
+      "submit": "खिलाड़ी बनाएं",
+      "errUsername": "नाम: 3-16 अक्षर, लैटिन अक्षर, अंक, अंडरस्कोर",
+      "errBirth": "जन्म तिथि चुनें",
+      "errTaken": "यह नाम पहले से लिया गया है"
+    },
+    "room": {
+      "title": "कमरा: {{name}}",
+      "start": "खेल शुरू करें",
+      "computer": "कंप्यूटर",
+      "playerComingSoon": "खिलाड़ी (विकास में)"
+    },
+    "game": {
+      "trump": "तुरुप",
+      "score": "स्कोर",
+      "waiting": "प्रतीक्षा…",
+      "mustFollow": "सूट फॉलो करें!",
+      "trickTaken": "{{name}} ने ट्रिक ली",
+      "kurt": "KURT",
+      "kotyrKurt": "KOTYR KURT",
+      "teamWins": "टीम {{team}} जीती!"
+    }
+  }

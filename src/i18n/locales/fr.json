@@ -1,0 +1,48 @@
+{
+    "common": {
+      "loading": "Chargement…",
+      "cancel": "Annuler",
+      "close": "Fermer"
+    },
+    "landing": {
+      "title": "Jeu de cartes « Kurt »",
+      "subtitle": "4 joueurs · 2 équipes · atout et plis",
+      "welcome": "Bienvenue, {{name}}",
+      "login": "Connexion",
+      "play": "Jouer"
+    },
+    "login": {
+      "title": "Connexion",
+      "google": "Continuer avec Google",
+      "microsoft": "Continuer avec Microsoft",
+      "apple": "Continuer avec Apple",
+      "facebook": "Continuer avec Facebook",
+      "twitter": "Continuer avec Twitter"
+    },
+    "createPlayer": {
+      "title": "Créez votre joueur",
+      "username": "Nom du joueur (latin uniquement)",
+      "birthDate": "Date de naissance",
+      "country": "Pays",
+      "submit": "Créer le joueur",
+      "errUsername": "Nom : 3-16 caractères, lettres latines, chiffres, underscore",
+      "errBirth": "Sélectionnez une date de naissance",
+      "errTaken": "Ce nom est déjà pris"
+    },
+    "room": {
+      "title": "Salle : {{name}}",
+      "start": "Démarrer la partie",
+      "computer": "Ordinateur",
+      "playerComingSoon": "Joueur (bientôt disponible)"
+    },
+    "game": {
+      "trump": "Atout",
+      "score": "Score",
+      "waiting": "En attente…",
+      "mustFollow": "Vous devez fournir la couleur !",
+      "trickTaken": "{{name}} remporte le pli",
+      "kurt": "KURT",
+      "kotyrKurt": "KOTYR KURT",
+      "teamWins": "L'équipe {{team}} gagne !"
+    }
+  }

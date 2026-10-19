@@ -1,0 +1,55 @@
+{
+    "common": {
+      "loading": "Loading…",
+      "cancel": "Cancel",
+      "close": "Close"
+    },
+    "landing": {
+      "title": "Card Game «Kurt»",
+      "subtitle": "4 players · 2 teams · trump & tricks",
+      "welcome": "Welcome, {{name}}",
+      "login": "Login",
+      "play": "Play"
+    },
+    "login": {
+      "title": "Sign in",
+      "google": "Continue with Google",
+      "microsoft": "Continue with Microsoft",
+      "apple": "Continue with Apple",
+      "facebook": "Continue with Facebook",
+      "twitter": "Continue with Twitter"
+    },
+    "createPlayer": {
+      "title": "Create your player",
+      "username": "Username (Latin only)",
+      "birthDate": "Birth date",
+      "country": "Country",
+      "submit": "Create Player",
+      "errUsername": "Username: 3-16 chars, Latin letters, digits, underscore only",
+      "errBirth": "Select birth date",
+      "errTaken": "Username already taken"
+    },
+    "room": {
+      "title": "Room: {{name}}",
+      "start": "Start Game",
+      "computer": "Computer",
+      "playerComingSoon": "Player (coming soon)"
+    },
+    "game": {
+      "trump": "Trump",
+      "score": "Score",
+      "waiting": "Waiting…",
+      "mustFollow": "Must follow suit!",
+      "trickTaken": "{{name}} takes the trick",
+      "kurt": "KURT",
+      "kotyrKurt": "KOTYR KURT",
+      "teamWins": "Team {{team}} wins!",
+      "chooseTrump": "Choose trump",
+      "chooseTrumpHint": "Pick the suit with most cards, or open a card from your full deal.",
+      "openFromDeal": "Open a card from the deal",
+      "openFromDealHint": "Click one of your cards — its suit becomes trump.",
+      "openFromDealNote": "All players will see the opened card.",
+      "opened": "Opened",
+      "collectHint": "Click the table to collect the trick"
+    }
+  }

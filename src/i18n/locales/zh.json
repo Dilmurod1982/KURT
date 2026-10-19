@@ -1,0 +1,48 @@
+{
+    "common": {
+      "loading": "加载中…",
+      "cancel": "取消",
+      "close": "关闭"
+    },
+    "landing": {
+      "title": "纸牌游戏《库尔特》",
+      "subtitle": "4 名玩家 · 2 支队伍 · 王牌与墩",
+      "welcome": "欢迎，{{name}}",
+      "login": "登录",
+      "play": "开始游戏"
+    },
+    "login": {
+      "title": "登录",
+      "google": "使用 Google 继续",
+      "microsoft": "使用 Microsoft 继续",
+      "apple": "使用 Apple 继续",
+      "facebook": "使用 Facebook 继续",
+      "twitter": "使用 Twitter 继续"
+    },
+    "createPlayer": {
+      "title": "创建你的玩家",
+      "username": "玩家名称（仅限拉丁字母）",
+      "birthDate": "出生日期",
+      "country": "国家",
+      "submit": "创建玩家",
+      "errUsername": "名称：3-16 个字符，仅限拉丁字母、数字、下划线",
+      "errBirth": "请选择出生日期",
+      "errTaken": "该名称已被占用"
+    },
+    "room": {
+      "title": "房间：{{name}}",
+      "start": "开始游戏",
+      "computer": "电脑",
+      "playerComingSoon": "玩家（开发中）"
+    },
+    "game": {
+      "trump": "王牌",
+      "score": "比分",
+      "waiting": "等待中…",
+      "mustFollow": "必须跟牌！",
+      "trickTaken": "{{name}} 赢得此墩",
+      "kurt": "KURT",
+      "kotyrKurt": "KOTYR KURT",
+      "teamWins": "{{team}} 队获胜！"
+    }
+  }

@@ -1,0 +1,48 @@
+{
+    "common": {
+      "loading": "Carregando…",
+      "cancel": "Cancelar",
+      "close": "Fechar"
+    },
+    "landing": {
+      "title": "Jogo de cartas «Kurt»",
+      "subtitle": "4 jogadores · 2 equipes · trunfo e vazas",
+      "welcome": "Bem-vindo, {{name}}",
+      "login": "Entrar",
+      "play": "Jogar"
+    },
+    "login": {
+      "title": "Entrar",
+      "google": "Continuar com Google",
+      "microsoft": "Continuar com Microsoft",
+      "apple": "Continuar com Apple",
+      "facebook": "Continuar com Facebook",
+      "twitter": "Continuar com Twitter"
+    },
+    "createPlayer": {
+      "title": "Crie seu jogador",
+      "username": "Nome do jogador (somente latim)",
+      "birthDate": "Data de nascimento",
+      "country": "País",
+      "submit": "Criar jogador",
+      "errUsername": "Nome: 3-16 caracteres, letras latinas, dígitos, underscore",
+      "errBirth": "Selecione a data de nascimento",
+      "errTaken": "Este nome já está em uso"
+    },
+    "room": {
+      "title": "Sala: {{name}}",
+      "start": "Iniciar jogo",
+      "computer": "Computador",
+      "playerComingSoon": "Jogador (em desenvolvimento)"
+    },
+    "game": {
+      "trump": "Trunfo",
+      "score": "Placar",
+      "waiting": "Aguardando…",
+      "mustFollow": "Deve seguir o naipe!",
+      "trickTaken": "{{name}} ganha a vaza",
+      "kurt": "KURT",
+      "kotyrKurt": "KOTYR KURT",
+      "teamWins": "Equipe {{team}} vence!"
+    }
+  }

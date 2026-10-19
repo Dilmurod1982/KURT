@@ -1,0 +1,48 @@
+{
+    "common": {
+      "loading": "読み込み中…",
+      "cancel": "キャンセル",
+      "close": "閉じる"
+    },
+    "landing": {
+      "title": "カードゲーム「クルト」",
+      "subtitle": "4人 · 2チーム · 切り札とトリック",
+      "welcome": "ようこそ、{{name}}",
+      "login": "ログイン",
+      "play": "プレイ"
+    },
+    "login": {
+      "title": "ログイン",
+      "google": "Google で続行",
+      "microsoft": "Microsoft で続行",
+      "apple": "Apple で続行",
+      "facebook": "Facebook で続行",
+      "twitter": "Twitter で続行"
+    },
+    "createPlayer": {
+      "title": "プレイヤーを作成",
+      "username": "プレイヤー名（ラテン文字のみ）",
+      "birthDate": "生年月日",
+      "country": "国",
+      "submit": "プレイヤーを作成",
+      "errUsername": "名前：3〜16文字、ラテン文字、数字、アンダースコアのみ",
+      "errBirth": "生年月日を選択してください",
+      "errTaken": "この名前は既に使用されています"
+    },
+    "room": {
+      "title": "ルーム：{{name}}",
+      "start": "ゲーム開始",
+      "computer": "コンピューター",
+      "playerComingSoon": "プレイヤー（開発中）"
+    },
+    "game": {
+      "trump": "切り札",
+      "score": "スコア",
+      "waiting": "待機中…",
+      "mustFollow": "同じスートを出してください！",
+      "trickTaken": "{{name}} がトリックを獲得",
+      "kurt": "KURT",
+      "kotyrKurt": "KOTYR KURT",
+      "teamWins": "チーム {{team}} の勝利！"
+    }
+  }

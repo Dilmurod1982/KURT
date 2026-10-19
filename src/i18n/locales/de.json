@@ -1,0 +1,48 @@
+{
+    "common": {
+      "loading": "Wird geladen…",
+      "cancel": "Abbrechen",
+      "close": "Schließen"
+    },
+    "landing": {
+      "title": "Kartenspiel „Kurt“",
+      "subtitle": "4 Spieler · 2 Teams · Trumpf und Stiche",
+      "welcome": "Willkommen, {{name}}",
+      "login": "Anmelden",
+      "play": "Spielen"
+    },
+    "login": {
+      "title": "Anmelden",
+      "google": "Weiter mit Google",
+      "microsoft": "Weiter mit Microsoft",
+      "apple": "Weiter mit Apple",
+      "facebook": "Weiter mit Facebook",
+      "twitter": "Weiter mit Twitter"
+    },
+    "createPlayer": {
+      "title": "Erstelle deinen Spieler",
+      "username": "Spielername (nur Latein)",
+      "birthDate": "Geburtsdatum",
+      "country": "Land",
+      "submit": "Spieler erstellen",
+      "errUsername": "Name: 3-16 Zeichen, lateinische Buchstaben, Ziffern, Unterstrich",
+      "errBirth": "Geburtsdatum auswählen",
+      "errTaken": "Dieser Name ist bereits vergeben"
+    },
+    "room": {
+      "title": "Raum: {{name}}",
+      "start": "Spiel starten",
+      "computer": "Computer",
+      "playerComingSoon": "Spieler (in Entwicklung)"
+    },
+    "game": {
+      "trump": "Trumpf",
+      "score": "Punktestand",
+      "waiting": "Warten…",
+      "mustFollow": "Farbe muss bedient werden!",
+      "trickTaken": "{{name}} gewinnt den Stich",
+      "kurt": "KURT",
+      "kotyrKurt": "KOTYR KURT",
+      "teamWins": "Team {{team}} gewinnt!"
+    }
+  }

@@ -1,0 +1,50 @@
+{
+    "common": {
+      "loading": "Yuklanmoqda…",
+      "cancel": "Bekor qilish",
+      "close": "Yopish"
+    },
+    "landing": {
+      "title": "«Kurt» karta o‘yini",
+      "subtitle": "4 o‘yinchi · 2 jamoa · kozir va ochkolar",
+      "welcome": "Xush kelibsiz, {{name}}",
+      "login": "Kirish",
+      "play": "O‘ynash"
+    },
+    "login": {
+      "title": "Kirish",
+      "google": "Google bilan davom etish",
+      "microsoft": "Microsoft bilan davom etish",
+      "apple": "Apple bilan davom etish",
+      "facebook": "Facebook bilan davom etish",
+      "twitter": "Twitter bilan davom etish"
+    },
+    "createPlayer": {
+      "title": "O‘yinchini yarating",
+      "username": "O‘yinchi nomi (faqat lotin)",
+      "birthDate": "Tug‘ilgan sana",
+      "country": "Mamlakat",
+      "submit": "O‘yinchini yaratish",
+      "errUsername": "Nom: 3-16 belgi, lotin harflari, raqamlar, pastki chiziq",
+      "errBirth": "Tug‘ilgan sanani tanlang",
+      "errTaken": "Bu nom allaqachon band"
+    },
+    "room": {
+      "title": "Xona: {{name}}",
+      "start": "O‘yinni boshlash",
+      "computer": "Kompyuter",
+      "playerComingSoon": "O‘yinchi (ishlab chiqilmoqda)"
+    },
+    "game": {
+      "trump": "Kozir",
+      "score": "Hisob",
+      "waiting": "Kutilmoqda…",
+      "mustFollow": "O‘z tug‘ida o‘ynang!",
+      "trickTaken": "{{name}} ochko oldi",
+      "kurt": "KURT",
+      "kotyrKurt": "KOTYR KURT",
+      "teamWins": "{{team}}-jamoa g‘olib!",
+      "collectHint": "Ochkoni olish uchun stolga bosing"
+
+    }
+  }
